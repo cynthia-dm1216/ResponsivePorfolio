@@ -1,5 +1,5 @@
 body{
-    background-image: url('https://lh3.googleusercontent.com/proxy/IEGY1GrQi5g62qFDz9vKSh0zN7VlEVj8tT5fPOE4J69hO29cWy8r3rBiiz9L7NOWf1lh07IfRIgNRxWO9xh6A87_oXrO9TIFddbZSjzwwsM');
+    background-image:url('https://lh3.googleusercontent.com/proxy/IEGY1GrQi5g62qFDz9vKSh0zN7VlEVj8tT5fPOE4J69hO29cWy8r3rBiiz9L7NOWf1lh07IfRIgNRxWO9xh6A87_oXrO9TIFddbZSjzwwsM');
    
 }
 
@@ -17,7 +17,7 @@ body{
 }
 .header{
     border-bottom: 4px solid black;
-}
+}   
 #container-contact {
     box-sizing: border-box;
     background-color:white;
