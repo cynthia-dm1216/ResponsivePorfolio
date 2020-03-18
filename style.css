@@ -32,9 +32,8 @@ body{
 .profile-pic{
     float: right;
     margin-right: 25px;
-    border: solid 1px white;
-    width: 460px;
-    height: 345px;
+    border: solid 1px white
+
 
 }
 .bio_box{
@@ -113,12 +112,6 @@ input, textarea {
     font-size: 24px;
 }
 
-.bio_img1{
-    size: 1px;
-    width:50%;
-    height:100hv;
-    box-sizing: 300px;
-}
 .footer{
     text-align: center;
     background-color: rgba(255, 207, 185, 0.877);
