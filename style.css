@@ -2,6 +2,10 @@ body{
     background-image:url('https://lh3.googleusercontent.com/proxy/IEGY1GrQi5g62qFDz9vKSh0zN7VlEVj8tT5fPOE4J69hO29cWy8r3rBiiz9L7NOWf1lh07IfRIgNRxWO9xh6A87_oXrO9TIFddbZSjzwwsM');
    
 }
+h1{
+    font-size: 15px;
+    color: rgba(201, 150, 135, 0.877);
+}
 
 .name {
     background-color:  rgba(255, 207, 185, 0.877);
@@ -31,11 +35,12 @@ body{
 }
 .profile-pic{
     float: right;
-    margin-right: 25px;
-    border: solid 1px white
-
-
+    margin-right: 20px;
+    border: solid 1px white;
+    width: 200px;
+    top: 10px;
 }
+
 .bio_box{
     background-color: palegoldenrod ;
     width: 80%;
@@ -70,6 +75,11 @@ body{
     margin-bottom: ;
 }
 
+.bio_img{
+ width: 200px;
+ border: solid 1px white;
+ height: 100px;
+}
 
 
 
